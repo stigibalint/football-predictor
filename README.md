@@ -39,27 +39,30 @@ A platform három fő rétegre épül:
 
 ## 📸 Képernyőképek
 
-<img width="2555" height="1349" alt="landing-page" src="https://github.com/user-attachments/assets/4eaea241-7656-44c9-874b-71005c1ad632" />
-<img width="2544" height="1348" alt="reg-page" src="https://github.com/user-attachments/assets/223f1970-e16e-453a-b611-630c51332dcf" />
-<img width="2487" height="1295" alt="dashboard" src="https://github.com/user-attachments/assets/8b9a8fe9-a866-414d-ad80-82e6fe2c8936" />
+<img width="2555" height="1349" alt="landing-page" src="https://github.com/user-attachments/assets/4e4ddd24-acb4-43a1-affe-e4c8653b1a30" />
+<img width="2544" height="1348" alt="reg-page" src="https://github.com/user-attachments/assets/306202e3-d506-4c6b-9380-86f30bb6cdde" />
+<img width="2487" height="1295" alt="dashboard" src="https://github.com/user-attachments/assets/ae2f0525-1332-45b5-a88e-241442e9faf1" />
 
 ### 🎥 Videós bemutatók
 
 **Főoldal & Áttekintés**
 
-https://github.com/user-attachments/assets/387da8ac-67d9-4de8-9622-d159bad5ce2e
+https://github.com/user-attachments/assets/b75b39eb-4f4d-4cbd-8915-ae7df80c3bc0
 
 **Meccs predikciós folyamat**
 
-https://github.com/user-attachments/assets/2b17d472-2719-4356-a057-f7b21c55ca48
+https://github.com/user-attachments/assets/cb4ab6a1-197c-4131-b30a-0f0aa1cee7b3
 
 **Poisson Kalkulátor**
 
-https://github.com/user-attachments/assets/02df4bb2-1d41-420c-af74-965bee6e2406
+https://github.com/user-attachments/assets/37cc7cf8-055a-41ed-9bfa-6c2f48cbf8c7
+
 
 **Gyakori kérdések**
 
-https://github.com/user-attachments/assets/4d26fdf6-980a-41fe-ae8a-cd69ff60e870
+https://github.com/user-attachments/assets/506efb43-4474-40ee-bdb2-eb85aabd994d
+
+
 
 ---
 
